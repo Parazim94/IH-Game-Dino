@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 .game{
     width: 400px;
@@ -29,9 +29,7 @@
     70%{bottom: -100px;}
     100%{bottom: -145px;}
 }
-
 #block{
-    
     width: 20px;
     height: 40px;
     position: relative;
@@ -48,4 +46,3 @@
 p{
     text-align: center;
 }
-

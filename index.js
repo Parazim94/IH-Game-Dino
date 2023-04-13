@@ -1,4 +1,3 @@
-
 let character = document.getElementById("character");
 let block = document.getElementById("block");
 let counter=0;
